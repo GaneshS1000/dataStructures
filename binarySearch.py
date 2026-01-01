@@ -1,6 +1,6 @@
 #program to perform Binary Search
 
-numbers = [11,20,21,22,25,27,29,30,36,40,50,60,78,90,100]
+numbers = [11,20,21,22,25,27,29,30,36,40,50,60,78,88,90,98,100,120,150]
 targetElement = int(input("Enter the Target Element:"))
 index = -1
 flag = True
